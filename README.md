@@ -119,15 +119,6 @@ curl -k -H "Host: hello.local" https://<NODE-IP>:<NODEPORT>
 
 ---
 
-## 🚀 Future Improvements
-
-* Use Let's Encrypt (production)
-* Add ClusterIssuer
-* Automate via CI/CD pipeline
-* Deploy multiple services with TLS
-
----
-
 ## 🧠 Key Learnings
 
 * Ingress requires a controller to function
@@ -138,5 +129,4 @@ curl -k -H "Host: hello.local" https://<NODE-IP>:<NODEPORT>
 ---
 
 ## 👨‍💻 Author
-
-Your Name
+Taliha 
